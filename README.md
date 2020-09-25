@@ -17,7 +17,7 @@ Jump To:
 
 ## Quick Examples
 
-### Sending an SMS using PHP
+### Sending an SMS
 
 ```python
 import requests
